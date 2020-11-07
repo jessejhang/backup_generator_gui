@@ -6,4 +6,4 @@ backup_generator_auto.py: not a gui & for Windows scheduler & filename should be
 
 # pytoexe coverting
 
-1) Open terminal -> 2) pyinstaller --onefile [filename]
+1. Open terminal -> 2. pyinstaller --onefile [filename]
